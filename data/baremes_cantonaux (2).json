@@ -1,0 +1,238 @@
+{
+  "VD": {
+    "Marié(e)": [
+      {
+        "tranche_max": 100,
+        "taux": 1.0
+      },
+      {
+        "tranche_max": 1600,
+        "taux": 2.0
+      },
+      {
+        "tranche_max": 3400,
+        "taux": 3.0
+      },
+      {
+        "tranche_max": 5000,
+        "taux": 4.0
+      },
+      {
+        "tranche_max": 8200,
+        "taux": 5.0
+      },
+      {
+        "tranche_max": 11700,
+        "taux": 6.0
+      },
+      {
+        "tranche_max": 14900,
+        "taux": 7.0
+      },
+      {
+        "tranche_max": 23300,
+        "taux": 8.0
+      },
+      {
+        "tranche_max": 40000,
+        "taux": 9.0
+      },
+      {
+        "tranche_max": 56500,
+        "taux": 10.0
+      },
+      {
+        "tranche_max": 73300,
+        "taux": 11.0
+      },
+      {
+        "tranche_max": 89900,
+        "taux": 12.0
+      },
+      {
+        "tranche_max": 106600,
+        "taux": 12.5
+      },
+      {
+        "tranche_max": 133200,
+        "taux": 13.0
+      },
+      {
+        "tranche_max": 159800,
+        "taux": 13.5
+      },
+      {
+        "tranche_max": 189800,
+        "taux": 14.0
+      },
+      {
+        "tranche_max": 219900,
+        "taux": 14.5
+      },
+      {
+        "tranche_max": 252500,
+        "taux": 15.0
+      },
+      {
+        "tranche_max": 287600,
+        "taux": 15.5
+      }
+    ],
+    "Personne vivant seule, avec / sans enfant": [
+      {
+        "tranche_max": 100,
+        "taux": 1.0
+      },
+      {
+        "tranche_max": 1600,
+        "taux": 2.0
+      },
+      {
+        "tranche_max": 3400,
+        "taux": 3.0
+      },
+      {
+        "tranche_max": 5000,
+        "taux": 4.0
+      },
+      {
+        "tranche_max": 8200,
+        "taux": 5.0
+      },
+      {
+        "tranche_max": 11700,
+        "taux": 6.0
+      },
+      {
+        "tranche_max": 14900,
+        "taux": 7.0
+      },
+      {
+        "tranche_max": 23300,
+        "taux": 8.0
+      },
+      {
+        "tranche_max": 40000,
+        "taux": 9.0
+      },
+      {
+        "tranche_max": 56500,
+        "taux": 10.0
+      },
+      {
+        "tranche_max": 73300,
+        "taux": 11.0
+      },
+      {
+        "tranche_max": 89900,
+        "taux": 12.0
+      },
+      {
+        "tranche_max": 106600,
+        "taux": 12.5
+      },
+      {
+        "tranche_max": 133200,
+        "taux": 13.0
+      },
+      {
+        "tranche_max": 159800,
+        "taux": 13.5
+      },
+      {
+        "tranche_max": 189800,
+        "taux": 14.0
+      },
+      {
+        "tranche_max": 219900,
+        "taux": 14.5
+      },
+      {
+        "tranche_max": 252500,
+        "taux": 15.0
+      },
+      {
+        "tranche_max": 287600,
+        "taux": 15.5
+      }
+    ],
+    "Personne vivant seule, avec enfant (en concubinage)": [
+      {
+        "tranche_max": 100,
+        "taux": 1.0
+      },
+      {
+        "tranche_max": 1600,
+        "taux": 2.0
+      },
+      {
+        "tranche_max": 3400,
+        "taux": 3.0
+      },
+      {
+        "tranche_max": 5000,
+        "taux": 4.0
+      },
+      {
+        "tranche_max": 8200,
+        "taux": 5.0
+      },
+      {
+        "tranche_max": 11700,
+        "taux": 6.0
+      },
+      {
+        "tranche_max": 14900,
+        "taux": 7.0
+      },
+      {
+        "tranche_max": 23300,
+        "taux": 8.0
+      },
+      {
+        "tranche_max": 40000,
+        "taux": 9.0
+      },
+      {
+        "tranche_max": 56500,
+        "taux": 10.0
+      },
+      {
+        "tranche_max": 73300,
+        "taux": 11.0
+      },
+      {
+        "tranche_max": 89900,
+        "taux": 12.0
+      },
+      {
+        "tranche_max": 106600,
+        "taux": 12.5
+      },
+      {
+        "tranche_max": 133200,
+        "taux": 13.0
+      },
+      {
+        "tranche_max": 159800,
+        "taux": 13.5
+      },
+      {
+        "tranche_max": 189800,
+        "taux": 14.0
+      },
+      {
+        "tranche_max": 219900,
+        "taux": 14.5
+      },
+      {
+        "tranche_max": 252500,
+        "taux": 15.0
+      },
+      {
+        "tranche_max": 287600,
+        "taux": 15.5
+      }
+    ]
+  }
+}
